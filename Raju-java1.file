@@ -1,7 +1,0 @@
-class Varma {
-public static void main(String []args){
-system .out prinln("Rajendra varma");
-}}
-
-
-O/p : Rajendra varma
